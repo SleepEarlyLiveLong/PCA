@@ -23,8 +23,8 @@ MyQuestionnaire
 ```
 Among the files above:
 - folder 'resource' contains data and image to be used in the project;
-- file 'DIGITS' is the data of MNIST;
-- file 'DIGITS_dedimention' is the data of [MNIST](http://yann.lecun.com/exdb/mnist/) after dimension reduction by PCA;
+- file 'DIGITS' is the data of [MNIST](http://yann.lecun.com/exdb/mnist/) after dimension reduction by PCA;
+- file 'DIGITS_dedimention' is the data of MNIST;
 - file 'genderRes' is the principle component data of a set of speech feature;
 - file 'standard_lena.bmp' is the picture of lena;
 - file 'voive_data' is the data of a speech dataset;
