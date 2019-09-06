@@ -7,10 +7,8 @@ MyQuestionnaire
     |-- src
         |-- resource
                 |-- DIGITS
-                |-- DIGITS_dedimention
                 |-- genderRes
                 |-- standard_lena.bmp
-                |-- voice_dedimention
                 |-- voive_data
         |-- myarrow.m
         |-- myPCA.m
@@ -23,12 +21,10 @@ MyQuestionnaire
 ```
 Among the files above:
 - folder 'resource' contains data and image to be used in the project;
-- file 'DIGITS' is the data of [MNIST](http://yann.lecun.com/exdb/mnist/) after dimension reduction by PCA;
-- file 'DIGITS_dedimention' is the data of MNIST;
+- file 'DIGITS' is the data of [MNIST](http://yann.lecun.com/exdb/mnist/);
 - file 'genderRes' is the principle component data of a set of speech feature;
 - file 'standard_lena.bmp' is the picture of lena;
 - file 'voive_data' is the data of a speech dataset;
-- file 'voice_dedimention' is the data of a speech dataset after dimension reduction by PCA;
 - file 'myarrow.m' is a function to draw arrows in MATLAB programmed by me myself;
 - file 'myPCA.m' is a function to realize PCA by me myself;
 - file 'PCAtest1_pca.m' is a test file to examine the performance of PCA;
