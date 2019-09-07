@@ -3,7 +3,7 @@
 This is a realization of Principle Component Analysis (PCA) and its applications (Code + Description). Here is the file structure:
 
 ```
-PCA
+   PCA
     |-- src
         |-- resource
                 |-- DIGITS
